@@ -39,7 +39,7 @@ A fully functional Todo CRUD API built using **Node.js**, **Express**, and **Pos
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/ANKITKUMARBARIL/PostgreSQL_todo_API.git
+git clone https://github.com/ANKITKUMARBARIK/PostgreSQL_todo_API.git
 cd PostgreSQL_todo_API
 npm install
 ```
